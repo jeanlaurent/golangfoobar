@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/jeanlaurent/gofoobar",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v62",
+	"Deps": [
+		{
+			"ImportPath": "github.com/stretchr/testify/assert",
+			"Rev": "e4ec8152c15fc46bd5056ce65997a07c7d415325"
+		}
+	]
+}
